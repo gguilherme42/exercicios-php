@@ -1,2 +1,2 @@
-# exercicios-php
+# Exercícios php
 Exercícios das aulas do curso de programador Web
